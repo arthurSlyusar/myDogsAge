@@ -1,9 +1,9 @@
 let myAge = 31; // me current age
-let earlyYears = 2; // типа раниие годы собаки 
+let earlyYears = 2; // early dogs Years
 
 earlyYears = earlyYears*10.5;
 
-laterYears = myAge-2; // потому что первые 2 года
+laterYears = myAge-2; // because this is the first two years
 laterYears = laterYears*4;
 
  // console.log(earlyYears); // to check
@@ -33,6 +33,6 @@ let finalAge = latestYears*4+firstTwo;
 let laterYearsForDog = firstTwo -0.4;
 let finalAge = laterYearsForDog*4; */
 
-// finalAge = Math.floor(finalAge); //- для округления значения до цеолого числа 
+// finalAge = Math.floor(finalAge); //- to round whole number
 
 console.log(`I have a dog. His Name is ${myDogName}. My dogs age in a human years is ${finalAge}`)
